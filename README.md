@@ -1,13 +1,27 @@
-# InterActor - (GroupProject 1)
+# InterActor
 
-# This is the submission for Group Project #1 [InterActor] (https://github.com/Allout004/GroupProject1) for U/W Coding Bootcamp Full Stack Flex Program, for Kurt Heimerman.
+Find movies that two or more actors, directors or producers have made together.
 
-## Notes About Application:      
-* Looks for 2 or more actors/actresses in the same movie
+**Live demo:** https://allout004.github.io/GroupProject1/
+**Original repository:** [Allout004/GroupProject1](https://github.com/Allout004/GroupProject1)
+
+> This is a copy of a team project built for the University of Washington Full Stack Coding Bootcamp. I contributed as a member of the development team.
+
+## Features
+
+- Search for two or more people and see the movies they worked on together
+- Movie posters and details from The Movie Database (TMDB)
+
+## Built With
+
+HTML · CSS · Materialize · JavaScript · jQuery · [TMDB API](https://www.themoviedb.org/documentation/api)
+
+## Screenshot
 
 ![Screenshot of InterActor](./assets/pictures/AppScreenShot.png)
 
-## The deployed app is here:  https://allout004.github.io/GroupProject1/
+## Author
 
-## It uses HTML, CSS, Materialize, Web-API fetch, Javascript, Jquery and TMDB API.
-
+**Archils Oburu**
+- GitHub: [@Archils](https://github.com/Archils)
+- Email: oburuarchils@gmail.com
