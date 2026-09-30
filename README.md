@@ -23,5 +23,5 @@ HTML · CSS · Materialize · JavaScript · jQuery · [TMDB API](https://www.the
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
